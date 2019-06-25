@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         <#code#>
     }
+    required init?(coder aDecoder: NSCoder) {
+        <#code#>
+    }
 
 
 }
